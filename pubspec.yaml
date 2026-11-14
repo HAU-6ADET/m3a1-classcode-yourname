@@ -1,0 +1,8 @@
+name: m3a1
+description: ADET M3A1 Contact Directory demo.
+version: 1.0.0
+publish_to: none
+environment:
+  sdk: '>=3.11.5 <4.0.0'
+dev_dependencies:
+  test: ^1.33.0
