@@ -12,3 +12,10 @@ String lookup(Map<String, String> book, String name) {
 List<String> namesStartingWith(Map<String, String> book, String letter) {
   return [];
 }
+
+// The contact directory program. Type along with the instructor.
+// Run it with: dart run lib/directory.dart
+void main() {
+  Map<String, String> book = {};
+  print('Contacts: ${book.length}');
+}
